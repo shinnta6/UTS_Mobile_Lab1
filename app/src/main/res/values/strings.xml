@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MidTerm_MobileProgramming</string>
+    <string name="greet">Hello, Good Morning</string>
+    <string name="username">Shinta!</string>
+
+    <string name="goal_list">GOAL</string>
+    <string-array name="data_goal">
+        <item>Loose Weight</item>
+        <item>Gain Weight</item>
+        <item>Body Building</item>
+        <item>Healthy</item>
+        <item>Sport</item>
+    </string-array>
+    
+    <string name="category_list">CATEGORY</string>
+    <string-array name="data_category">
+        <item>Yoga</item>
+        <item>Gym</item>
+        <item>Cardio</item>
+        <item>Stretch</item>
+        <item>Full Body</item>
+    </string-array>
+
+    <integer-array name="data_category_photo">
+        <item>@drawable/yoga</item>
+        <item>@drawable/gym</item>
+        <item>@drawable/cardio</item>
+        <item>@drawable/stretch</item>
+        <item>@drawable/fullbody</item>
+    </integer-array>
+
+    <string name="capt_exc1">Full Shot Woman Stretching Arm</string>
+    <string name="capt_exc2">Athlete Practicing Monochrome</string>
+    <string name="capt_meal1">Greek salad with lettuce, green onion</string>
+    <string name="capt_meal2">Salad of fresh vegetables</string>
+</resources>
